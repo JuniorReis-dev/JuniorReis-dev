@@ -51,31 +51,6 @@ Sou **Cleiton Nunes Dos Reis**, estudante de **Análise e Desenvolvimento de Sis
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-## 🏆 Recentes Projetos
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> Tecnologias Que Eu Uso</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,git,github,vscode,figma&perline=10" />
-  </a>
-</p>
-
-<hr>
-
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniorReis-dev&theme=react&border_radius=10" width="45%" />
-</div>
-
-<hr>
-
 <h2 align="center">🏆 Recentes Projetos</h2>
 
 <table align="center">
