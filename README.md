@@ -1,10 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+CLEITON+REIS+;I'm+20+years+old;I+from+Brasil,+SP;I+study+development+Web;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+CLEITON+REIS+;I'm+20+years+old;I+From+Brasil,+SP;I+Study+Development+Web;Be+Welcome!+:%29)
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
 
 ### 👨‍💻 Sobre Mim
 
