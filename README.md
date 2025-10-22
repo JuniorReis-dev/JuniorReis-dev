@@ -8,7 +8,7 @@ Sou **Cleiton Nunes Dos Reis**, estudante de **Análise e Desenvolvimento de Sis
 
 ---
 
-## Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,git,github,vscode,figma&perline=10" />
