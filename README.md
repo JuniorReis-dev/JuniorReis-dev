@@ -14,8 +14,8 @@ Sou **Cleiton Nunes Dos Reis**, estudante de **Análise e Desenvolvimento de Sis
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,git,github,vscode,figma&perline=10" />
   </a>
-</div
-  
+</div>
+
 ---
 
 <div align="center">
