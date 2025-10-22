@@ -5,17 +5,7 @@
 ### 👨‍💻 Sobre Mim
 
 Sou **Cleiton Nunes Dos Reis**, estudante de **Análise e Desenvolvimento de Sistemas** e participante do **bootcamp da Generation Brasil**, focado em **Java, Spring Boot e React**. Busco minha primeira oportunidade como **desenvolvedor full-stack**, aplicando conhecimentos em **Java, Git, JavaScript, HTML5 e CSS3** para criar aplicações eficientes e bem estruturadas.
-
-📍 Monte Mor, SP - Brasil
-📧 [cleitonreis.dev@gmail.com](mailto:cleitonreis.dev@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/cleitonreisbr/)
-
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
@@ -23,11 +13,6 @@ Sou **Cleiton Nunes Dos Reis**, estudante de **Análise e Desenvolvimento de Sis
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,git,github,vscode,figma&perline=10" />
   </a>
 </div>
-
----
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
 
 <h2 align="center">🏆 Recentes Projetos</h2>
 
